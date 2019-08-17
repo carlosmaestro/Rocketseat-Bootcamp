@@ -1,1 +1,1 @@
-# Rocketseat Bootcamp - React, React Native e NodeJs
+# Rocketseat Bootcamp - NodeJs, React e React Native
