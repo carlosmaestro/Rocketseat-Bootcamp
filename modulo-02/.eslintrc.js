@@ -19,7 +19,7 @@ module.exports = {
   rules: {
     "prettier/prettier": "error",
     "class-methods-use-this": "off",
-    "linebreak-style": ["error", "unix"],
+    "linebreak-style": ["error", "windows"],
     "no-param-reassign": "off",
     "no-unused-vars": ["error", { "argsIgnorePattern": "next" }],
     "camelcase": "off"
