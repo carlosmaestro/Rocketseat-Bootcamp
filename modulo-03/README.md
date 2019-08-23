@@ -83,3 +83,8 @@ $ yarn add yup
 ```bash
 $ yarn add jsonwebtoken
 ```
+### Add multer
+
+```bash
+$ yarn add multer
+```
